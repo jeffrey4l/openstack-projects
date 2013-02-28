@@ -1,0 +1,42 @@
+[submodule "keystone"]
+	path = keystone
+	url = git://github.com/openstack/keystone.git
+[submodule "nova"]
+	path = nova
+	url = git://github.com/openstack/nova.git
+[submodule "cinder"]
+	path = cinder
+	url = git://github.com/openstack/cinder.git
+[submodule "glance"]
+	path = glance
+	url = git://github.com/openstack/glance.git
+[submodule "swift"]
+	path = swift
+	url = git://github.com/openstack/swift.git
+[submodule "python-swiftclient"]
+	path = python-swiftclient
+	url = git://github.com/openstack/python-swiftclient.git
+[submodule "heat"]
+	path = heat
+	url = git://github.com/openstack/heat.git
+[submodule "quantum"]
+	path = quantum
+	url = git://github.com/openstack/quantum.git
+[submodule "python-quantumclient"]
+	path = python-quantumclient
+	url = git://github.com/openstack/python-quantumclient.git
+[submodule "ceilometer"]
+	path = ceilometer
+	url = git://github.com/openstack/ceilometer.git
+[submodule "openstack-manuals"]
+	path = openstack-manuals
+	url = git://github.com/openstack/openstack-manuals.git
+[submodule "horizon"]
+	path = horizon
+	url = git://github.com/openstack/horizon.git
+[submodule "noVNC"]
+	path = noVNC
+	url = git://github.com/openstack/noVNC.git
+[submodule "requirements"]
+	path = requirements
+	url = git://github.com/openstack/requirements.git
